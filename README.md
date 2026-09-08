@@ -11,7 +11,7 @@
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1> 
   <p style="fontSize:15px">
-Senior Software Engineer specializing in full-stack and AI-driven development, building scalable, high-performance applications using React, Node.js, Python (Django/FastAPI), and cloud technologies. Experienced in designing real-time systems, optimizing performance, and delivering robust solutions across distributed environments.
+Software Engineer focused on building scalable web applications, backend systems, and AI solutions. I enjoy designing reliable systems and exploring modern technologies.
 </p>
 <p align="center">
   <a href="https://github.com/leopard930418"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Developer;5+%2B%20years%20of%20extensive%20experiences;&center=true&width=800&height=45"></a>
