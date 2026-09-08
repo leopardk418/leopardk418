@@ -1,4 +1,4 @@
-# <b>Hello, I am leopard!</b>
+# <b>Hello!</b>
 <p align="center">
   <img align="center" src="image1.png" style = "width: 33%;"/>
   <img align="center" src="image2.png" style = "width: 33%;"/>
