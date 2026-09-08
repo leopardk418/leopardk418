@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="image1.png" style = "width: 33%;"/>
   <img align="center" src="image2.png" style = "width: 33%;"/>
-  <img align="center" src="image3.jpg" style = "width: 33%;"/>
+  <img align="center" src="image3.png" style = "width: 33%;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
