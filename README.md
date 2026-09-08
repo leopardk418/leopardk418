@@ -14,7 +14,7 @@
 Senior Software Engineer specializing in AI-powered applications and intelligent systems. Experienced with machine learning, computer vision, Python, LLM integrations, and cloud technologies. Building scalable solutions that combine modern software engineering with artificial intelligence.
 </p>
 <p align="center">
-  <a href="https://github.com/leopardk418"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Software%20Engineers;8+%2B%20years%20of%20extensive%20experiences;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/leopardk418"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Software%20Engineer;8+%2B%20years%20of%20extensive%20experiences;&center=true&width=800&height=45"></a>
 </p> 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
